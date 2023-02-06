@@ -6,7 +6,7 @@ I am interested in cybersecurity and python language. Here is my projects and ce
 - [Hangman](https://github.com/verestv/Hangman)
 - [Todo App(Flask + Simantec UI)](https://github.com/verestv/Task-manager)
 - [Money Manager(Tkinter)](https://github.com/verestv/Money-Manager)
-<h2>Cyber security projects</h2>
+<h2>🔒Cyber security projects</h2>
 
 - [File Integrity Monitor](https://github.com/verestv/FIM)
 

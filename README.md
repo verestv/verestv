@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ivan!</h1>
-I am interested in cybersecurity and python language. Here is my projects:
+I am interested in cybersecurity and python language. Here is my projects and certs:
 
 <h2>👨‍💻 Python Projects:</h2>
 

@@ -11,7 +11,7 @@ I am interested in cybersecurity and python language. Here is my projects and ce
 - [File Integrity Monitor](https://github.com/verestv/FIM)
 
 
-<h2>Certifications</h2>
+<h2>🎓Certifications</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

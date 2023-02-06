@@ -4,6 +4,7 @@
 
 - [Hangman](https://github.com/verestv/Hangman)
 - [Todo App(Flask + Simantec UI)](https://github.com/verestv/Task-manager)
+- [Money Manager(Tkinter)](https://github.com/verestv/Money-Manager)
 <h2>Cyber security projects</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
